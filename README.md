@@ -13,12 +13,12 @@ A customer travel destination map was created based on user input for weather pr
 
 A marker layer map with pop-up markers for the cities in the vacation DataFrame was created *(Fig 1)* (https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG). 
 
-The Google Directions API was used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. A directions layer map between the cities and the travel map was created (https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG). 
-![WeatherPy_travel_map_markers](https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+The Google Directions API was used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. A directions layer map *(Fig 2)*  between the cities and the travel map was created.  
+![WeatherPy_travel_map](https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 |:--:|
-|Fig 2. Marker layer map with pop-up markers for cities in the itinerary.|
+|Fig 2. Travel route map for cities in the itinerary.|
 
-A marker layer map *(Fig 2)* (https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG) was created with a pop-up marker for each city on the itinerary.
+A marker layer map (https://github.com/chinzjay/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG) was created with a pop-up marker for each city on the itinerary.
 
 ## Summary
 The following are the major features of PlanMyTrip app.
